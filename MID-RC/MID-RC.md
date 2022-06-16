@@ -318,5 +318,5 @@ Logic of stalls:
 **Please also start to do your project 4, it does help for the exam!!!**
 
 <p align="center">
-<img src="tagaki.jpeg" width="60%">
+<img src="tagaki.jpg" width="60%">
 </p>
