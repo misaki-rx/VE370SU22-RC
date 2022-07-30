@@ -60,8 +60,8 @@ Solution: Insert nops and use forwarding path mentioned above
 - Both instruction memory and data memory have this hierarchy
 - Complete memory hierarchy: (We may have caches of several levels)
   
-  <p>
-  <img src="../RC4/hierarchy.png" width="80%">
+  <p align="center">
+  <img src="../RC4/hierarchy.png" width="60%">
   </p>
 
 ### Locality
@@ -212,7 +212,7 @@ Miss cycles per instruction = Portion of memory access instruction * miss rate *
 2. Be careful about the virtual address translation questions, once one blank is wrong in the middle, your whole answer maybe be wrong TAT
 
 <p align="center">
-<img src="goodluck.jpeg" width="80%">
+<img src="goodluck.jpeg" width="50%">
 </p>
 
 
